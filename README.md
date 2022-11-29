@@ -1,3 +1,7 @@
-Online Retail.xlsx is the executable file
-code SQL: cohort_analyst.sql
-result: pivot_cohort.csv
+1. Online Retail.xlsx is the executable file
+
+
+3. code SQL: cohort_analyst.sql
+
+
+4. result: pivot_cohort.csv
